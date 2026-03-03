@@ -47,6 +47,7 @@ add_bin_tool(word-set-difference binsrc/word-set-difference.cpp)
 add_bin_tool(pinyin-normalize binsrc/pinyin-normalize.cpp)
 
 add_bin_tool(sort-freq binsrc/sort-freq.cpp)
+add_bin_tool(sort-word binsrc/sort-word.cpp)
 add_bin_tool(sort-codec-seq binsrc/sort-codec-seq.cpp)
 add_bin_tool(sort-codec-seq-wbfilter binsrc/sort-codec-seq-wbfilter.cpp)
 

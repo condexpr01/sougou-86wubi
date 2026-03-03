@@ -34,6 +34,7 @@ clean:
 	-rm ../bin/pinyin-normalize
 
 	-rm ../bin/sort-freq
+	-rm ../bin/sort-word
 
 	-rm ../bin/sort-codec-seq
 	-rm ../bin/sort-codec-seq-wbfilter
